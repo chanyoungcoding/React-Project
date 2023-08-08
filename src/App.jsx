@@ -1,11 +1,11 @@
 import './App.css'
-import Counter from './Counter'
+import Button from '@mui/material/Button';
 
 function App() {
   return (
     <>
       <h1>state Demo</h1>
-      <Counter/>
+      <Button variant="contained">Contained</Button>
     </>
   )
 }
