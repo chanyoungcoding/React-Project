@@ -1,11 +1,11 @@
 import './App.css'
-import Button from '@mui/material/Button';
+import Material from './Material'
 
 function App() {
   return (
     <>
       <h1>state Demo</h1>
-      <Button variant="contained">Contained</Button>
+      <Material/>
     </>
   )
 }
