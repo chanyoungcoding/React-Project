@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
     <p>HOME</p>
-    <h1>state Demo</h1>
+    <hr />
     <Material/>
     <Link to="/about">about</Link>
     </>
